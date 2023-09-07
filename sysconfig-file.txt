@@ -1,0 +1,8 @@
+#            devicename   readspeed      writespeed
+#
+device       usb3.1       640000000Bps   640000000Bps
+device       terminal     10Bps          3000000Bps
+device       hd           160000000Bps   80000000Bps
+device       ssd          480000000Bps   420000000Bps
+#
+timequantum  100usec
